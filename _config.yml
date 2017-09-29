@@ -19,9 +19,6 @@ github_username: jekyll
 markdown: kramdown
 plugins:
 - jekyll-feed
-
 sass:
-  # loading path from site root
-  # default to _sass
   sass_dir: bower_components/bootstrap-sass/assets/stylesheets
   style: compressed
